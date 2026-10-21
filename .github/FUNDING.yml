@@ -1,3 +1,4 @@
 # Sponsor button for every repository in the kiln-viewer organisation.
-# Add github, ko_fi and open_collective entries once those accounts are live.
+# Add github and open_collective entries once those accounts are live.
+ko_fi: kilnviewer
 custom: ["https://kilnviewer.com/support/"]
